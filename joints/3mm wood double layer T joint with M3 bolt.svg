@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 336.5 178.75" style="enable-background:new 0 0 336.5 178.75;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#000000;stroke-miterlimit:11.3386;}
+	.st2{display:inline;fill:none;stroke:#FF0000;stroke-width:0.25;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{display:inline;fill:none;stroke:#00A651;stroke-width:0.25;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#231F20;stroke-width:0.25;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{display:inline;fill:none;stroke:#000000;stroke-width:0.01;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#231F20;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Design_work" class="st0">
+	<rect x="-173.42" y="48.75" class="st1" width="226.77" height="61.71"/>
+	<rect x="80.7" y="58.06" class="st2" width="8.27" height="43.09"/>
+	<rect x="192.74" y="58.06" class="st2" width="8.27" height="43.09"/>
+	<circle class="st3" cx="105.4" cy="79.61" r="5.1"/>
+	<rect x="53.35" y="58.35" class="st4" width="8.5" height="42.52"/>
+	<rect x="61.85" y="58.35" class="st4" width="8.5" height="11.34"/>
+	<rect x="61.85" y="89.53" class="st4" width="8.5" height="11.34"/>
+	<rect x="101.14" y="58.35" class="st3" width="8.5" height="11.34"/>
+	<rect x="101.14" y="89.53" class="st3" width="8.5" height="11.34"/>
+	<circle class="st3" cx="276.49" cy="79.61" r="5.1"/>
+	<rect x="272.23" y="58.35" class="st3" width="8.5" height="11.34"/>
+	<rect x="272.23" y="89.53" class="st3" width="8.5" height="11.34"/>
+	<rect x="27.84" y="76.2" class="st4" width="34.02" height="6.8"/>
+	
+		<rect x="37.47" y="76.49" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 124.7321 34.4782)" class="st4" width="15.31" height="6.24"/>
+	<rect x="161.44" y="22.91" class="st5" width="70.87" height="113.39"/>
+	<rect x="241.05" y="22.91" class="st5" width="70.87" height="113.39"/>
+</g>
+<g id="Laser_Cut">
+	<g>
+		<rect x="49.07" y="50.5" class="st6" width="8.27" height="43.09"/>
+		<rect x="17.77" y="15.35" class="st6" width="70.87" height="113.39"/>
+	</g>
+	<g>
+		<circle class="st6" cx="132.82" cy="72.04" r="5.1"/>
+		<rect x="128.56" y="50.78" class="st6" width="8.5" height="11.34"/>
+		<rect x="128.56" y="81.96" class="st6" width="8.5" height="11.34"/>
+		<rect x="97.38" y="15.35" class="st6" width="70.87" height="113.39"/>
+	</g>
+	<polygon class="st7" points="277.5,68.64 277.5,62.12 286.01,62.12 286.01,50.78 277.5,50.78 269,50.78 269,41.19 183.2,41.19 
+		183.2,102.9 269,102.9 269,93.3 277.5,93.3 286.01,93.3 286.01,81.96 277.5,81.96 277.5,75.44 263.9,75.44 263.9,79.69 
+		257.66,79.69 257.66,75.44 243.49,75.44 243.49,68.64 257.66,68.64 257.66,64.39 263.9,64.39 263.9,68.64 	"/>
+</g>
+</svg>
